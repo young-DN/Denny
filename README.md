@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="300" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif"  />
-</div>
+<img align="right" height="300" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif"  />
 
 ###
 
@@ -14,7 +12,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/dluc4z/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
